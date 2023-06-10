@@ -2,7 +2,6 @@ import java.sql.Array;
 import java.util.Arrays;
 
 public class Main {
-//    static String[][] array;
     public static void main(String[] args) {
         System.out.println(divisionByZero(4));
         System.out.println(nullPointer(null));
